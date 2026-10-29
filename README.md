@@ -1,5 +1,5 @@
 # GNSS Systems: Data Processing & Performance Analysis
-**ENSTA Bretagne — Engineering Project | June 2025**
+**ENSTA — Engineering Project | June 2025**
 
 ## English
 
