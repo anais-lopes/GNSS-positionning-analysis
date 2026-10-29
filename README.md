@@ -1,6 +1,3 @@
-# GNSS-positionning-analysis
-GNSS positioning and trajectory analysis using Python, GPS and RTK receivers.
-
 # GNSS Systems: Data Processing & Performance Analysis
 **ENSTA Bretagne — Engineering Project | June 2025**
 
